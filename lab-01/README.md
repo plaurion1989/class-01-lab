@@ -1,4 +1,59 @@
-# Getting Started with Create React App
+## Lab-01
+Initial Creation of first React Application.
+
+## Lab-02
+
+Number and name of feature: 
+________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
+## Lab-03
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+## Lab-04
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+## Lab-05
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +122,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
